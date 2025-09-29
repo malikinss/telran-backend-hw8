@@ -1,4 +1,6 @@
-# telran-backend-hw8
+# Homework 8: Employees Back-End
+
+## Task Definition
 
 ```
 HW# 8 Initial code of Employees Back-End
@@ -13,3 +15,27 @@ Normal flow from the validation aspect (Assumed the valid data), but processing 
 No security (Authentication, Authorization, Accounting)
 Testing is done by using Postman only with valid JSON objects for adding and updating
 ```
+
+## Description 📝
+
+## Purpose 🎯
+
+## Features ✨
+
+## How It Works 🔍
+
+## Output 📜
+
+## Usage 📦
+
+## Usage Examples 🚀
+
+## Project Structure 🗂
+
+## License 📄
+
+MIT
+
+## Conclusion 🧮
+
+Made with ❤️ and `TypeScript` by Sam-Shepsl Malikin
